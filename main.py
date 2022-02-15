@@ -2,7 +2,7 @@
 from resources import Character, Goblin
 
 
-if __name__=="main":
+if __name__=="__main__":
     nemy = Character("namy",20,5,3)
     goblin_one = Goblin(10,3,1)
 
